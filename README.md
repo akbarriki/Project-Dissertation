@@ -4,6 +4,7 @@ This repository serves as the information center of my Master's Project Disserta
 <b>Title: Extraction of the Aspect of Numerical Entities for Financial News Mining in Bahasa Indonesia</b><br />
 Author: Riki Akbar<br />
 Supervisor: Dr. Julia Ive<br />
+Year: 2022<br />
 
 ### Abstract
 <p  align="justify">Unlike non-numerical entities, the number of research concentrating on information extraction of numerical entities is still limited despite a massive increase of data-driven approaches touching a wide range of sectors, including the finance domain. Many previous studies emphasised the use of pre-defined keywords to extract attributes and relations with which the numerical entities involve. This approach is less adaptive in capturing the context in which numbers and
